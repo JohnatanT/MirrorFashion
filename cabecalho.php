@@ -1,6 +1,6 @@
 <header class="container">
   <h1>
-    <img src="img/logo.png" alt="Mirror Fashion">
+    <a href="index.html"><img src="img/logo.png" alt="Mirror Fashion"></a>
   </h1>
   <p class="sacola">
     Nenhum item na sacola de compras
